@@ -1,0 +1,34 @@
+.color-title {
+    font-weight: bold;
+}
+/* we can also use id selector
+#red {
+font-weight : normal
+}
+
+*/
+
+h2[id="red"]{
+    color: red
+}
+
+h2[id="blue"]{
+    color: rgb(2, 166, 231)
+}
+
+h2[id="orange"]{
+    color: orange
+}
+
+h2[id="green"]{
+    color: green
+}
+
+h2[id="yellow"]{
+    color: yellow
+}
+
+img{
+   width: 200px;
+   height: 200px
+}

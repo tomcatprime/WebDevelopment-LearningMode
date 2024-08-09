@@ -6,7 +6,8 @@ ol {
 
 /* Write your CSS below, don't change the rules above. */
 
-/* 
+/*
+HTML TAG selector = starting with name of tag e.g. h2 {}
 CLASS SELECTOR  - starting with . then name of class from HTML tag e.g. .note
 ID SELECTOR - starting with # then name of if from html tag e.g. #id
 
@@ -29,6 +30,7 @@ p {
 li[value="4"] {
   color: blue;
 }
+
 
 * {
   text-align: center;
